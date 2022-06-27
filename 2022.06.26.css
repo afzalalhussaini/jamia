@@ -1,0 +1,93 @@
+.redblue{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+}
+.d1{
+    background-color: rgb(94, 248, 23);
+    height: 600px;
+    text-align: center;
+    direction: rtl;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 30px;
+    opacity: 0.6;
+}
+.d2{background-color: rgba(44, 66, 34, 0.815);
+    height: 600px;
+    text-align: center;
+    direction: rtl;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    opacity: 0.6;
+
+}
+.d3{background-color: rgba(46, 13, 231, 0.815);
+    height: 560px;
+    text-align: center;
+    direction: rtl;
+    margin-top: 20px;
+  margin-right: 20px;
+    border-radius: 30px;
+    opacity: 0.6;
+    padding: 20px 20px;
+}
+.d4{
+    background-color: rgba(7, 223, 97, 0.815);
+    height: 600px;
+    text-align: center;
+    direction: rtl;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 30px;
+    opacity: 0.6; 
+    margin-bottom: 20px;
+}
+.d5{
+    background-color: rgba(43, 36, 78, 0.815);
+    height: 600px;
+    text-align: center;
+    direction: rtl;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    opacity: 0.6;
+    margin-bottom: 20px;
+}
+.d6{
+    background-color: rgba(192, 114, 13, 0.815);
+    height: 600px;
+    text-align: center;
+    direction: rtl;
+    margin-top: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    opacity: 0.6;
+    margin-bottom: 20px;}
+
+.button{ font-size: 50px;
+     background-color: blue;
+     border-radius: 20px;
+     font-family: jameel noori nastaleeq;
+}
+
+.button:hover{ font-size: 50px;
+    background-color: maroon;
+    border-radius: 20px;
+    font-family: jameel noori nastaleeq;
+}
+
+.img{
+    border-radius: 20px;
+    height: 150px;
+    width: 250px;
+    margin-top: 20px;
+}
+.font{
+    font-family: jameel noori nastaleeq;
+}
+.button a{ text-decoration: none;
+
+}
